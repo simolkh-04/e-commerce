@@ -25,7 +25,7 @@ This is a Laravel-based e-commerce platform designed to provide a complete onlin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/NIZAR-BENAKKADOU/e-commerce.git
+   git clone https://github.com/simolkh-04/e-commerce
    cd e-commerce
    ```
 
@@ -114,8 +114,8 @@ This project is open-source and available for use and modification.
 
 ## 👤 Author
 
-**NIZAR BENAKKADOU**
-- GitHub: [@NIZAR-BENAKKADOU](https://github.com/NIZAR-BENAKKADOU)
+**LAKHAL MOHAMMED*
+- GitHub: [@simolkh-04](https://github.com/simolkh-04)
 
 ## 🤝 Contributing
 
